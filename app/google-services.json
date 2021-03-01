@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10259661793",
+    "firebase_url": "https://mebel-10363.firebaseio.com",
+    "project_id": "mebel-10363",
+    "storage_bucket": "mebel-10363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10259661793:android:a2bc1e6b0a17f873a988a0",
+        "android_client_info": {
+          "package_name": "kz.xyzdev.mebel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10259661793-agtp7jo62t6mu67qtuctbqdha3lgejqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.xyzdev.mebel",
+            "certificate_hash": "1a4fa9723487e39f34e1d9097feafb7ed75d23a5"
+          }
+        },
+        {
+          "client_id": "10259661793-s4d2lvsnlbqj4c2vuhvv6p9f84mj3hns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5haFMnGvS45L6oQ2OxQmJ42bOirJ2mP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10259661793-s4d2lvsnlbqj4c2vuhvv6p9f84mj3hns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
